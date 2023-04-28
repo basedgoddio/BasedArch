@@ -29,6 +29,7 @@ milou
 okular
 oxygen
 plasma-nm
+plasma-meta
 plasma-pa
 plasma-wayland-session
 powerdevil
