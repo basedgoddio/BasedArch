@@ -52,7 +52,7 @@ grub-customizer
 gst-libav
 gst-plugins-good
 gst-plugins-ugly
-
+krita
 haveged
 htop
 jdk-openjdk
