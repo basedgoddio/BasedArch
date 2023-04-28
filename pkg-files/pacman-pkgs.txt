@@ -46,11 +46,13 @@ gamemode
 gcc
 gimp
 gparted
+gnome-disk-utility
 gptfdisk
 grub-customizer
 gst-libav
 gst-plugins-good
 gst-plugins-ugly
+
 haveged
 htop
 jdk-openjdk
